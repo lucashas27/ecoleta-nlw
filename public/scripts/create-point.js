@@ -86,7 +86,7 @@ itemLi.classList.toggle("selected")
 
 
 const itemId = itemLi.dataset.id
-
+console.log('ITEM ID:', itemId)
 
 
 
@@ -123,6 +123,8 @@ console.log(selectedItems)
 
 
 }
+
+console.log('selectedItems: ', selectedItems)
 
 collectedItems.value = selectedItems
     
