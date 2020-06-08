@@ -1,24 +1,80 @@
 <h1 align="center">
-ECOLETA
-<img src=https://ik.imagekit.io/mzewmmeswq/logo_PgmTR_Tjs.svg>
+    <img src=https://ik.imagekit.io/mzewmmeswq/logo_PgmTR_Tjs.svg>
 </h1>
 
 
 
-<strong>E-COLETA: UM PROJETO NEXT LEVEL WEEK</strong>
+
+#**E-COLETA: UM PROJETO NEXT LEVEL WEEK**
+
+O **Ecoleta** é um marketplace fictício para encontrar e cadastrar pontos decoleta de resíduos domésticos como pilhas, óleo, entre outros.</h3>
+
+
+
+# Indice
+
+- [Sobre] (#-sobre)
+- [Tecnologias-Utilizadas] (#-tecnologias-utilizadas)
+- [Como-baixar-o-projeto] (#-como-baixar-o-projeto)
+- [Prática-do-curso] (#-pratica-do-curso)
+
+
+---
+
+
+
+## 📩 Sobre
+
+
+Este é um projeto desenvolvido por mim durante a primeira Next Level Week da RocketSeat, durante os dias 01/06 a 07/06
+O Ecoleta é um marketplace fictício para encontrar e cadastrar pontos decoleta de resíduos domésticos como pilhas, óleo, entre outros.
+
+
+---
+
+
+
+## 🚀 Tecnologias Utilizadas
+
+Neste projeto foram utilizadas as tecnologias
+- JavaScript,
+- HTML, 
+- CSS, 
+- Node.JS,
+- NunJucks, 
+- SQLite.
 
 
 
 
-
-Este é um projeto desenvolvido por mim durante a primeira Next Level Week da RocketSeat, durante os dias 01/06 a 07/06</h3>
-
+---
 
 
 
+## 📂 Como baixar o projeto
 
 
-Neste projeto foram utilizadas as tecnologias JavaScript, HTML, CSS, Node.JS,NunJucks, SQLite.
+```bash
+
+
+# Clonar o repositório
+$ git clone http://github.com/lucashas27/ecoleta-nlw
+
+
+# Entrar no diretório
+$ cd rocketmusic
+
+# Instalar as dependências
+% yarn install
+
+# Iniciar o projeto
+$ yarn start
+
+
+```
+
+
+# Prática do curso
 
 
 Foi realizada a integração com a API do IBGE para ter acesso aos JSONs de Estados e Municípios.
@@ -29,3 +85,16 @@ Nos dois últimos foi realizada a parte do Backend, onde foi feita a criação e
 
 
 O layout e as telas do projeto podem ser encontradas nesta <a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">página do Figma</a> 
+
+
+---
+
+
+<h1 align='center'>
+👍 Desenvolvido por <a href="https://www.linkedin.com/in/lucas-alves-181182164/"> Lucas Alves </a>
+
+
+
+
+
+
