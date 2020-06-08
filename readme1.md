@@ -14,9 +14,9 @@ O **Ecoleta** é um marketplace fictício para encontrar e cadastrar pontos deco
 # Indice
 
 - [Sobre] (#-sobre)
-- [Tecnologias-Utilizadas] (#-tecnologias-utilizadas)
-- [Como-baixar-o-projeto] (#-como-baixar-o-projeto)
-- [Prática-do-curso] (#-pratica-do-curso)
+- [Tecnologias Utilizadas] (#-tecnologias-utilizadas)
+- [Como baixar o projeto] (#-como-baixar-o-projeto)
+- [Prática do curso] (#-pratica-do-curso)
 
 
 ---
