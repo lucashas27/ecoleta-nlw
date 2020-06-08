@@ -66,7 +66,7 @@ $ git clone http://github.com/lucashas27/ecoleta-nlw
 
 
 # Entrar no diretório
-$ cd rocketmusic
+$ cd ecoleta-nlw
 
 # Instalar as dependências
 % yarn install
