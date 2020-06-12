@@ -11,7 +11,7 @@ O **Ecoleta** é um marketplace fictício para encontrar e cadastrar pontos deco
 
 
 
-# Indice
+#  Indice
 
 - [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
@@ -27,7 +27,7 @@ O **Ecoleta** é um marketplace fictício para encontrar e cadastrar pontos deco
 
 
 
-## 📩 Sobre
+## 📩  Sobre
 
 
 Este é um projeto desenvolvido por mim durante a primeira Next Level Week da RocketSeat, durante os dias 01/06 a 07/06.<br>
@@ -38,7 +38,7 @@ O Ecoleta é um marketplace fictício para encontrar e cadastrar pontos decoleta
 
 
 
-## 🚀 Tecnologias Utilizadas
+## 🚀  Tecnologias Utilizadas
 
 Neste projeto foram utilizadas as tecnologias
 - JavaScript,
@@ -55,7 +55,7 @@ Neste projeto foram utilizadas as tecnologias
 
 
 
-## 📂 Como baixar o projeto
+## 📂  Como baixar o projeto
 
 
 ```bash
@@ -81,7 +81,7 @@ $ yarn start
 
 
 
-## 🛠 Pratica
+## 🛠  Pratica
 
 
 Foi realizada a integração com a API do IBGE para ter acesso aos JSONs de Estados e Municípios.
